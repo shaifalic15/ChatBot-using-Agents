@@ -1,0 +1,16 @@
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+openai>=1.10.0
+anthropic>=0.8.0
+langgraph>=0.2.50
+langchain-community>=0.3.15
+psycopg[binary]>=3.2.0
+sentence-transformers>=3.3.0
+faiss-cpu>=1.9.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+numpy>=2.0.0
+selenium==4.16.0
+webdriver-manager==4.0.1
